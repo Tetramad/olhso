@@ -1,0 +1,184 @@
+[
+  {
+    "name": "ANSI 104 Layout Based Ortholinearish Olhso"
+  },
+  [
+    {
+      "x": 2.25,
+      "c": "#F3FFBD",
+      "t": "#000000\n\n\n\n#525252",
+      "a": 0
+    },
+    "F1\n\n\n\n1u\nr1",
+    "F2\n\n\n\n1u\nr1",
+    "F3\n\n\n\n1u\nr1",
+    "F4\n\n\n\n1u\nr1",
+    "F5\n\n\n\n1u\nr1",
+    "F6\n\n\n\n1u\nr1",
+    "PrtSc\n\n\n\n1u\nr1",
+    "F7\n\n\n\n1u\nr1",
+    "F8\n\n\n\n1u\nr1",
+    "F9\n\n\n\n1u\nr1",
+    "F10\n\n\n\n1u\nr1",
+    "F11\n\n\n\n1u\nr1",
+    "F12\n\n\n\n1u\nr1"
+  ],
+  [
+    {
+      "y": 0.5,
+      "x": 1.25
+    },
+    "~\n`\n\n\n1u\nr1",
+    "!\n1\n\n\n1u\nr1",
+    "@\n2\n\n\n1u\nr1",
+    "#\n3\n\n\n1u\nr1",
+    "$\n4\n\n\n1u\nr1",
+    "%\n5\n\n\n1u\nr1",
+    "^\n6\n\n\n1u\nr1",
+    "Home\n\n\n\n1u\nr1",
+    "&\n7\n\n\n1u\nr1",
+    "*\n8\n\n\n1u\nr1",
+    "(\n9\n\n\n1u\nr1",
+    ")\n0\n\n\n1u\nr1",
+    "_\n-\n\n\n1u\nr1",
+    "+\n=\n\n\n1u\nr1",
+    "Esc\n\n\n\n1u\nr1"
+  ],
+  [
+    {
+      "x": 0.75,
+      "c": "#B2DBBF",
+      "t": "#000000",
+      "w": 1.5
+    },
+    "Tab\n\n\n\n1.5u\nr2",
+    "Q\n\n\n\n1u\nr2",
+    "W\n\n\n\n1u\nr2",
+    "E\n\n\n\n1u\nr2",
+    "R\n\n\n\n1u\nr2",
+    "T\n\n\n\n1u\nr2",
+    "[\n\n\n\n1u\nr2",
+    "End\n\n\n\n1u\nr2",
+    "]\n\n\n\n1u\nr2",
+    "Y\n\n\n\n1u\nr2",
+    "U\n\n\n\n1u\nr2",
+    "I\n\n\n\n1u\nr2",
+    "O\n\n\n\n1u\nr2",
+    "P\n\n\n\n1u\nr2",
+    {
+      "w": 1.5
+    },
+    "|\n\\\n\n\n1.5u\nr2"
+  ],
+  [
+    {
+      "x": 0.5,
+      "c": "#70C1B3",
+      "w": 1.75
+    },
+    "Backspace*\n\n\n\n1.75u\nr3",
+    "A\n\n\n\n1u\nr3",
+    "S\n\n\n\n1u\nr3",
+    "D\n\n\n\n1u\nr3",
+    {
+      "c": "#70c1b3",
+      "n": true
+    },
+    "F\n\n\n\n1u\nr3",
+    {
+      "c": "#70C1B3"
+    },
+    "G\n\n\n\n1u\nr3",
+    {
+      "c": "#AAAAAA",
+      "a": 3
+    },
+    "\n\n\n\n1u",
+    {
+      "c": "#CBE896",
+      "a": 0
+    },
+    "↑\n\n\n\n1u\nr4",
+    {
+      "c": "#70C1B3"
+    },
+    "\"\n'\n\n\n1u\nr3",
+    "H\n\n\n\n1u\nr3",
+    {
+      "c": "#70c1b3",
+      "n": true
+    },
+    "J\n\n\n\n1u\nr3",
+    {
+      "c": "#70C1B3"
+    },
+    "K\n\n\n\n1u\nr3",
+    "L\n\n\n\n1u\nr3",
+    ":\n;\n\n\n1u\nr3",
+    {
+      "w": 2.25
+    },
+    "Enter\n\n\n\n2.25u\nr3"
+  ],
+  [
+    {
+      "c": "#CBE896",
+      "w": 2.25
+    },
+    "Shift\n\n\n\n2.25u\nr4",
+    "Z\n\n\n\n1u\nr4",
+    "X\n\n\n\n1u\nr4",
+    "C\n\n\n\n1u\nr4",
+    "V\n\n\n\n1u\nr4",
+    "B\n\n\n\n1u\nr4",
+    "←\n\n\n\n1u\nr4",
+    "↓\n\n\n\n1u\nr4",
+    "→\n\n\n\n1u\nr4",
+    "N\n\n\n\n1u\nr4",
+    "M\n\n\n\n1u\nr4",
+    "<\n,\n\n\n1u\nr4",
+    ">\n.\n\n\n1u\nr4",
+    "?\n/\n\n\n1u\nr4",
+    {
+      "w": 2.75
+    },
+    "Shift\n\n\n\n2.75u\nr4"
+  ],
+  [
+    {
+      "x": 1,
+      "w": 1.25
+    },
+    "Ctrl\n\n\n\n1.25u\nr4",
+    {
+      "w": 1.25
+    },
+    "Win\n\n\n\n1.25u\nr4",
+    {
+      "w": 1.25
+    },
+    "Alt\n\n\n\n1.25u\nr4",
+    {
+      "a": 3,
+      "w": 6.25
+    },
+    "\n\n\n\n6.25u\nr4",
+    {
+      "a": 0,
+      "w": 1.25
+    },
+    "Alt\n\n\n\n1.25u\nr4",
+    {
+      "w": 1.25
+    },
+    "Win\n\n\n\n1.25u\nr4",
+    {
+      "w": 1.25
+    },
+    "Menu\n\n\n\n1.25u\nr4",
+    {
+      "w": 1.25
+    },
+    "Ctrl\n\n\n\n1.25u\nr4"
+  ]
+]
